@@ -4,10 +4,12 @@ Experimental 22-resolution
   * Laravel
   * Yii
 - Javascript Framework
+  * Vue
   * Angular
   * React
   * Node
 - CSS Framework
+  * Bootstrap
   * Tailwind
   * Semantic UI
 - Version Control (Git)

@@ -1,16 +1,16 @@
 Experimental 22-resolution
 --------------------------
 - PHP Framework
-  * Codeigniter
   * Laravel
   * Yii
 - Javascript Framework
   * Vue
-  * Web3.0
+  * Angular
+  * React
   * Node
 - CSS Framework
   * Bootstrap
   * Tailwind
+  * Semantic UI
 - Version Control (Git)
   * GitHub
-  * GitLab

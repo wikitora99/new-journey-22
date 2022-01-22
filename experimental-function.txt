@@ -9,8 +9,8 @@ Experimental 22-resolution
   * React
   * Node
 - CSS Framework
-  * Bootstrap
   * Tailwind
+  * Bulma
   * Semantic UI
 - Version Control (Git)
   * GitHub
